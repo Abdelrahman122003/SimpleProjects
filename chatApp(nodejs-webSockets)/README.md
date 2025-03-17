@@ -1,3 +1,7 @@
+> # The Project Idea
+
+**Simple chat application implemented with nodejs and websockets**
+
 > ## Establish a connection between the frontend and the Socket.io server running in server.js on the backend.
 
 ### **How `io` Works Between Backend (`server.js`) and Frontend (`main.js`)**
